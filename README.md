@@ -27,5 +27,3 @@ This project predicts cryptocurrency prices using **Machine Learning** and **Dee
 
 ---
 
-
-## 📂 Project Structure  
